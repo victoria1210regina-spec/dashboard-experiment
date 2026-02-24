@@ -1,0 +1,121 @@
+id,sexo,idade,circunferencia_cintura,circunferencia_quadril,circunferencia_braco,circunferencia_coxa,pas,pad,fc,icq,classificacao_pressao,risco_cintura
+1,Masculino,19,108.4,94.8,28.2,47.6,147,94,55,1.143,Hipertensão Estágio 2,Muito Aumentado
+2,Feminino,20,66.3,94.8,30.1,45.8,112,94,76,0.699,Hipertensão Estágio 2,Baixo
+3,Masculino,46,101.5,117.4,26.1,65.1,144,87,71,0.865,Hipertensão Estágio 2,Aumentado
+4,Feminino,27,74.7,119.4,23.6,56.4,122,82,88,0.626,Hipertensão Estágio 1,Baixo
+5,Feminino,69,67.0,105.7,24.0,72.7,105,95,68,0.634,Hipertensão Estágio 2,Baixo
+6,Feminino,54,73.7,88.1,32.6,68.2,105,74,56,0.837,Normal,Baixo
+7,Feminino,35,85.4,122.5,24.6,55.7,142,77,94,0.697,Hipertensão Estágio 2,Aumentado
+8,Masculino,56,103.6,106.4,29.9,56.6,117,100,94,0.974,Hipertensão Estágio 2,Muito Aumentado
+9,Masculino,61,89.6,115.7,26.9,65.5,151,80,75,0.774,Hipertensão Estágio 2,Baixo
+10,Feminino,22,74.5,127.4,36.0,54.4,141,91,75,0.585,Hipertensão Estágio 2,Baixo
+11,Feminino,27,76.9,96.1,31.0,52.9,137,87,87,0.8,Hipertensão Estágio 1,Baixo
+12,Feminino,41,74.9,129.9,30.2,47.7,103,67,59,0.577,Normal,Baixo
+13,Masculino,68,105.6,108.9,32.2,59.9,129,93,66,0.97,Hipertensão Estágio 2,Muito Aumentado
+14,Masculino,61,107.4,112.3,34.6,51.7,141,81,57,0.956,Hipertensão Estágio 2,Muito Aumentado
+15,Feminino,45,72.1,85.1,33.6,66.6,132,71,82,0.847,Hipertensão Estágio 1,Baixo
+16,Masculino,73,103.1,118.7,34.1,50.0,123,70,84,0.869,Elevada,Muito Aumentado
+17,Masculino,56,89.6,85.8,40.9,67.0,153,79,65,1.044,Hipertensão Estágio 2,Baixo
+18,Masculino,33,114.5,122.9,27.4,57.1,104,94,99,0.932,Hipertensão Estágio 2,Muito Aumentado
+19,Masculino,26,104.7,122.9,28.6,58.2,138,87,63,0.852,Hipertensão Estágio 1,Muito Aumentado
+20,Masculino,63,89.0,124.8,36.4,56.0,133,88,57,0.713,Hipertensão Estágio 1,Baixo
+21,Masculino,32,77.9,85.8,34.9,59.7,100,64,95,0.908,Normal,Baixo
+22,Masculino,32,78.0,86.3,31.3,57.9,117,91,63,0.904,Hipertensão Estágio 2,Baixo
+23,Masculino,64,117.1,107.8,33.6,64.6,151,86,62,1.086,Hipertensão Estágio 2,Muito Aumentado
+24,Masculino,24,104.7,99.2,32.6,66.6,103,66,53,1.055,Normal,Muito Aumentado
+25,Feminino,64,80.3,123.8,26.0,50.7,128,68,77,0.649,Elevada,Aumentado
+26,Masculino,35,95.8,120.0,27.2,65.2,154,95,56,0.798,Hipertensão Estágio 2,Aumentado
+27,Masculino,59,120.0,118.4,41.5,68.2,154,75,60,1.014,Hipertensão Estágio 2,Muito Aumentado
+28,Feminino,49,86.7,123.9,36.4,49.9,100,84,66,0.7,Hipertensão Estágio 1,Aumentado
+29,Feminino,36,84.0,128.1,37.9,61.7,145,91,59,0.656,Hipertensão Estágio 2,Aumentado
+30,Masculino,36,84.8,87.3,37.8,46.5,120,63,53,0.971,Elevada,Baixo
+31,Feminino,50,106.4,108.9,22.9,60.2,154,71,54,0.977,Hipertensão Estágio 2,Muito Aumentado
+32,Masculino,61,113.8,101.2,41.1,59.2,137,98,52,1.125,Hipertensão Estágio 2,Muito Aumentado
+33,Masculino,44,104.6,107.6,31.1,51.5,142,80,65,0.972,Hipertensão Estágio 2,Muito Aumentado
+34,Feminino,43,70.9,114.0,29.3,72.9,159,64,50,0.622,Hipertensão Estágio 2,Baixo
+35,Feminino,57,109.9,129.8,23.2,51.4,116,68,72,0.847,Normal,Muito Aumentado
+36,Masculino,74,86.0,96.4,33.0,58.6,119,99,91,0.892,Hipertensão Estágio 2,Baixo
+37,Masculino,60,111.8,97.0,36.6,68.5,108,76,57,1.153,Normal,Muito Aumentado
+38,Masculino,65,99.9,95.9,35.7,62.9,113,100,66,1.042,Hipertensão Estágio 2,Aumentado
+39,Feminino,34,105.7,123.1,23.5,57.7,117,62,50,0.859,Normal,Muito Aumentado
+40,Feminino,67,70.9,129.1,24.6,58.3,145,87,85,0.549,Hipertensão Estágio 2,Baixo
+41,Masculino,25,78.4,120.3,40.5,58.6,153,83,87,0.652,Hipertensão Estágio 2,Baixo
+42,Masculino,45,80.7,97.3,40.4,64.9,155,62,72,0.829,Hipertensão Estágio 2,Baixo
+43,Masculino,61,86.2,89.1,38.5,67.1,126,99,97,0.967,Hipertensão Estágio 2,Baixo
+44,Masculino,33,113.9,124.0,39.0,67.0,101,71,97,0.919,Normal,Muito Aumentado
+45,Feminino,68,106.9,121.1,35.8,69.3,117,70,100,0.883,Normal,Muito Aumentado
+46,Masculino,42,114.2,119.3,29.6,65.4,129,82,69,0.957,Hipertensão Estágio 1,Muito Aumentado
+47,Masculino,32,76.1,92.7,31.3,66.6,149,77,72,0.821,Hipertensão Estágio 2,Baixo
+48,Feminino,61,109.2,109.1,37.0,48.5,116,71,87,1.001,Normal,Muito Aumentado
+49,Feminino,20,69.9,104.6,33.7,54.4,138,92,57,0.668,Hipertensão Estágio 2,Baixo
+50,Feminino,75,90.9,96.5,33.3,45.1,159,94,93,0.942,Hipertensão Estágio 2,Muito Aumentado
+51,Masculino,41,94.4,123.0,40.7,60.6,142,67,96,0.767,Hipertensão Estágio 2,Aumentado
+52,Feminino,50,78.9,103.4,28.4,53.9,108,72,76,0.763,Normal,Baixo
+53,Feminino,61,98.7,92.8,31.1,57.2,153,60,69,1.064,Hipertensão Estágio 2,Muito Aumentado
+54,Feminino,31,84.3,111.1,32.5,58.9,128,73,82,0.759,Elevada,Aumentado
+55,Feminino,68,105.6,120.8,24.7,47.5,132,100,89,0.874,Hipertensão Estágio 2,Muito Aumentado
+56,Feminino,23,101.8,118.8,32.8,51.7,112,69,51,0.857,Normal,Muito Aumentado
+57,Masculino,33,119.3,109.5,38.3,56.4,156,100,86,1.089,Hipertensão Estágio 2,Muito Aumentado
+58,Masculino,63,106.3,104.8,29.9,61.4,100,66,99,1.014,Normal,Muito Aumentado
+59,Feminino,32,72.9,128.1,30.3,46.5,115,67,79,0.569,Normal,Baixo
+60,Masculino,69,95.9,106.2,34.9,52.9,148,88,89,0.903,Hipertensão Estágio 2,Aumentado
+61,Feminino,71,105.8,105.1,24.5,70.8,128,76,98,1.007,Elevada,Muito Aumentado
+62,Masculino,71,103.7,115.6,34.3,60.7,117,88,54,0.897,Hipertensão Estágio 1,Muito Aumentado
+63,Feminino,33,77.2,99.4,30.6,49.2,114,84,94,0.777,Hipertensão Estágio 1,Baixo
+64,Masculino,63,84.6,101.6,31.3,56.6,103,73,76,0.833,Normal,Baixo
+65,Feminino,75,99.6,127.6,22.3,71.4,136,84,80,0.781,Hipertensão Estágio 1,Muito Aumentado
+66,Masculino,40,88.4,100.6,40.3,65.9,134,94,88,0.879,Hipertensão Estágio 2,Baixo
+67,Masculino,49,84.9,102.4,26.5,53.4,143,85,96,0.829,Hipertensão Estágio 2,Baixo
+68,Masculino,71,96.0,90.1,36.0,45.7,125,97,86,1.065,Hipertensão Estágio 2,Aumentado
+69,Masculino,23,103.9,90.4,33.4,46.3,124,80,63,1.149,Hipertensão Estágio 1,Muito Aumentado
+70,Feminino,38,80.2,124.6,26.5,73.5,126,76,55,0.644,Elevada,Aumentado
+71,Feminino,19,98.7,87.3,37.2,51.7,104,62,98,1.131,Normal,Muito Aumentado
+72,Masculino,33,84.0,85.8,28.4,48.2,142,67,86,0.979,Hipertensão Estágio 2,Baixo
+73,Masculino,47,106.5,115.7,28.7,60.2,147,67,99,0.92,Hipertensão Estágio 2,Muito Aumentado
+74,Masculino,37,79.9,86.0,31.0,61.9,124,85,95,0.929,Hipertensão Estágio 1,Baixo
+75,Masculino,22,101.6,118.2,29.9,62.4,119,98,57,0.86,Hipertensão Estágio 2,Aumentado
+76,Masculino,40,99.0,111.5,27.1,61.2,100,86,81,0.888,Hipertensão Estágio 1,Aumentado
+77,Masculino,45,118.2,110.4,39.3,62.7,127,71,96,1.071,Elevada,Muito Aumentado
+78,Feminino,57,101.4,109.2,29.7,58.1,146,97,67,0.929,Hipertensão Estágio 2,Muito Aumentado
+79,Feminino,72,76.0,127.1,26.5,58.5,148,89,86,0.598,Hipertensão Estágio 2,Baixo
+80,Feminino,39,66.3,123.3,24.9,51.4,151,76,71,0.538,Hipertensão Estágio 2,Baixo
+81,Feminino,74,91.8,124.6,30.9,60.5,112,65,65,0.737,Normal,Muito Aumentado
+82,Feminino,49,90.0,95.8,29.6,66.4,128,61,55,0.939,Elevada,Muito Aumentado
+83,Feminino,32,83.2,95.9,32.6,56.1,135,93,72,0.868,Hipertensão Estágio 2,Aumentado
+84,Feminino,65,89.8,100.8,29.3,54.2,114,67,96,0.891,Normal,Muito Aumentado
+85,Masculino,38,80.4,106.4,38.2,49.6,113,90,67,0.756,Hipertensão Estágio 2,Baixo
+86,Feminino,24,102.5,98.3,27.8,54.1,145,94,58,1.043,Hipertensão Estágio 2,Muito Aumentado
+87,Feminino,20,108.8,109.9,33.2,48.8,155,91,56,0.99,Hipertensão Estágio 2,Muito Aumentado
+88,Masculino,54,87.8,104.1,31.5,69.1,116,90,57,0.843,Hipertensão Estágio 2,Baixo
+89,Masculino,43,97.1,108.1,37.0,48.8,151,96,69,0.898,Hipertensão Estágio 2,Aumentado
+90,Masculino,33,80.3,115.6,35.7,64.8,114,93,74,0.695,Hipertensão Estágio 2,Baixo
+91,Feminino,46,78.4,111.5,28.9,62.1,103,99,97,0.703,Hipertensão Estágio 2,Baixo
+92,Masculino,66,84.4,93.4,36.6,48.9,111,95,54,0.904,Hipertensão Estágio 2,Baixo
+93,Masculino,18,93.4,112.6,33.5,45.8,118,78,94,0.829,Normal,Baixo
+94,Feminino,22,95.9,126.6,34.6,63.8,142,72,77,0.758,Hipertensão Estágio 2,Muito Aumentado
+95,Masculino,52,85.1,91.0,30.3,48.6,103,70,100,0.935,Normal,Baixo
+96,Feminino,56,98.7,110.6,26.6,48.7,144,79,94,0.892,Hipertensão Estágio 2,Muito Aumentado
+97,Feminino,35,87.5,107.2,23.3,46.2,127,80,88,0.816,Hipertensão Estágio 1,Aumentado
+98,Feminino,19,69.1,128.3,35.4,62.3,160,61,98,0.539,Hipertensão Estágio 2,Baixo
+99,Feminino,54,66.8,119.0,29.5,64.5,158,77,61,0.561,Hipertensão Estágio 2,Baixo
+100,Feminino,58,101.6,128.6,29.5,57.3,120,66,60,0.79,Elevada,Muito Aumentado
+101,Feminino,44,96.2,98.0,37.1,69.4,135,62,79,0.982,Hipertensão Estágio 1,Muito Aumentado
+102,Masculino,38,86.4,89.6,38.4,66.6,152,60,92,0.964,Hipertensão Estágio 2,Baixo
+103,Feminino,44,67.4,108.3,32.0,60.0,128,63,63,0.622,Elevada,Baixo
+104,Feminino,53,70.9,98.0,36.1,59.5,101,100,88,0.723,Hipertensão Estágio 2,Baixo
+105,Masculino,63,82.1,107.0,34.8,47.3,153,67,79,0.767,Hipertensão Estágio 2,Baixo
+106,Masculino,59,112.4,104.9,37.5,57.7,117,86,80,1.071,Hipertensão Estágio 1,Muito Aumentado
+107,Feminino,33,85.6,91.5,25.0,63.0,147,68,54,0.936,Hipertensão Estágio 2,Aumentado
+108,Feminino,67,100.6,103.7,36.9,60.2,152,60,68,0.97,Hipertensão Estágio 2,Muito Aumentado
+109,Feminino,71,91.4,130.0,29.8,49.5,134,90,72,0.703,Hipertensão Estágio 2,Muito Aumentado
+110,Feminino,53,99.3,102.0,36.9,71.1,144,75,86,0.974,Hipertensão Estágio 2,Muito Aumentado
+111,Feminino,32,103.5,103.5,27.1,59.2,158,84,74,1.0,Hipertensão Estágio 2,Muito Aumentado
+112,Masculino,49,118.4,90.0,41.4,53.3,106,88,56,1.316,Hipertensão Estágio 1,Muito Aumentado
+113,Feminino,18,97.5,103.4,32.5,49.6,130,76,71,0.943,Hipertensão Estágio 1,Muito Aumentado
+114,Feminino,59,68.6,99.8,32.8,61.0,120,100,95,0.687,Hipertensão Estágio 2,Baixo
+115,Feminino,73,89.3,112.8,25.8,65.5,118,74,97,0.792,Normal,Muito Aumentado
+116,Masculino,45,119.0,115.4,37.3,47.5,110,79,51,1.031,Normal,Muito Aumentado
+117,Masculino,38,110.8,96.7,32.0,48.6,133,86,86,1.146,Hipertensão Estágio 1,Muito Aumentado
+118,Masculino,28,82.9,109.4,32.1,62.1,131,97,59,0.758,Hipertensão Estágio 2,Baixo
+119,Masculino,47,103.7,103.4,36.7,67.5,129,78,93,1.003,Elevada,Muito Aumentado
+120,Masculino,22,94.9,98.8,35.4,61.0,127,76,79,0.961,Elevada,Aumentado
